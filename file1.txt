@@ -4,3 +4,4 @@ Line 3 in main branch
 Line 4 in main branch
 Line 5 in main branch
 Line 6 in main branch
+Line 7 in main branch
