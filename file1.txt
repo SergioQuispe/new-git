@@ -2,3 +2,4 @@ This is line 1 in main branch
 This is line 2 in main branch from file1.txt
 This is line 3 in main branch from file1.txt
 This is line 4 in main branch from file1.txt
+This is line 5 in branch-a from file1.txt
