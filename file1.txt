@@ -6,3 +6,4 @@ This is line 5 in branch-a to file1
 This is line 6 in branch-a to file1
 This is line 7 in main branch from file1.txt
 This is line 8 in main branch from file1.txt
+This is line 9 in main branch from file1.txt
