@@ -1,1 +1,2 @@
 This is line 1 in main branch
+This is line 2 in main branch from file1.txt
