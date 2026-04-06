@@ -4,3 +4,4 @@ Line 3 in main branch from file1.txt
 Line 4 in new-branch1 from file1.txt
 Line 5 in main branch from file1.txt
 Line 6 in new-branch1 from file1.txt
+Line 7 in main branch from file1.txt
